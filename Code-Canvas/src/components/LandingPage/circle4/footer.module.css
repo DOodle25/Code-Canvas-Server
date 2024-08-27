@@ -1,0 +1,26 @@
+/* footer */
+.circle-4-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(4, 4, 4);
+}
+.circle-4-footer-holder {
+    max-width: 700px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.circle-4-footer-links {
+    padding-top: 29px;
+    padding-bottom: 29px;
+}
+.circle-4-footer-link {
+    font-family: 'Gothic A1';
+    margin-right: 15px;
+    margin-left: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    text-decoration: none;
+    overflow: hidden;
+}
